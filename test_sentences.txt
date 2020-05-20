@@ -1,0 +1,10 @@
+রাম/NP/S/T/I বই/NN/S/T/I পড়ছে/VB/S/T/I । সে/PRP/S/T/I খুব/JJ/S/T/I ভালো/JJ/S/T/I ।
+রামের/NP/S/T/I বল/NN/S/T/I আছে/VB/NA/NA/NA। সে/PRP/S/T/I ওটাকে/PRP/S/T/I খব/ADJ/NA/NA/NA ভালোবাসে/VB/NA/NA/NA। সেটি/PRP/S/T/I গোলাকার/VB/NA/NA/NA। 
+রামবাবু/NP/S/T/F সমাজের/NN/S/T/I মাথা/NN/S/T/I । ওনাকে/PRP/S/T/F সকলে/QT/P/T/I ভয়/JJ/S/T/I পায়/VB/S/T/I । 
+মুকুন্দরা/NP/P/T/I দার্জিলিং/NP/S/T/I বেড়াতে/VB/S/T/I গেছে/VB/S/T/I । তারা/PRP/P/T/I পরশু/NN/S/T/I ফিরবে/VB/P/T/I ।
+নিখিল/NP/S/T/I ছবি/NN/S/T/I আঁকছে/VB/S/T/I । সেটি/PRP/S/T/I রঙিন/JJ/S/T/I ।  
+পাখির/NN/S/T/I বাসা/NN/S/T/I গাছে/NN/S/T/I । সেটির/PRP/S/T/I রং/NN/S/T/I নীল/NN/S/T/I । 
+রাম/NP/S/T/I আর/CONJ/S/T/I যদু/NP/S/T/I গান/NN/S/T/I করছে/VP/S/T/I । তারা/PRP/P/T/I ভালো/JJ/S/T/I গান/NN/S/T/I গায়/VB/S/T/I ।
+রামের/NP/S/T/I বাড়ি/NN/S/T/I কলকাতায়/NP/S/T/I । সেটা/PRP/S/T/I দেখতে/VB/S/T/I বহু/JJ/P/T/I লোক/NN/S/T/I যায়/VB/S/T/I ।
+বাড়ির/NN/S/T/I ওপর/POST/S/T/I দিয়ে/VAUX/S/T/I বিমান/NN/S/T/I উড়ে/VB/S/T/I গেল/VAUX/S/T/I । সেটির/PRP/S/T/I গতি/NN/S/T/I বিশাল/JJ/S/T/I । 
+বাঁদরটি/NN/S/T/I নাচ/VB/S/T/I করছিলো/VB/S/T/I । তা/PRP/S/T/I দেখে/VB/S/T/I ছেলেটি/NN/S/T/I খুশি/JJ/S/T/I হলো/VAUX/S/T/I । 
