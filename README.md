@@ -7,4 +7,4 @@ For running the code:
 For more information, check the report and presentation.
 For examples, check the test_sentences.
 
-The research ppaers which were referred are also provided.
+The research papers which were referred are also provided.
